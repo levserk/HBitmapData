@@ -6,8 +6,8 @@ BitmapData for Flash on Haxe with fast memory
 ##Demos:
 
  
-[SimpleParticles](http://www.swfcabin.com/open/1378741203)
+[SimpleParticles](http://imagestun.com/hosting/swf_new/SimpleParticles.swf)
 
-[ParticlesCollisionDetection](http://www.swfcabin.com/open/1378741761)
+[ParticlesCollisionDetection](http://imagestun.com/hosting/swf_new/ParticlesCollisionDetection.swf)
 
 _just for fun_
